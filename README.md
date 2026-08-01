@@ -1,5 +1,7 @@
 # if-archive
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Interactive fiction from the [IF Archive](https://ifarchive.org/) — the
 community's own archive of text adventures, running since 1992 and
 maintained by the [Interactive Fiction Technology
