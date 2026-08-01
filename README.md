@@ -1,8 +1,5 @@
 # if-archive
 
-A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
-Oklahoma non-profit corporation with 501(c)(3) status pending.
-
 Interactive fiction from the [IF Archive](https://ifarchive.org/) — the
 community's own archive of text adventures, running since 1992 and
 maintained by the [Interactive Fiction Technology
